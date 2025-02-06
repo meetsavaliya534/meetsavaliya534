@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Savaliya</h1>
 <h3 align="center">A passionate ICT Engineer</h3>
 
-- 🔭 I’m currently working on [Supreme Feeder by trackwizz](https://www.trackwizz.com/company.html)
+- 🔭 I’m currently working at Promact Infotech as an  intern
 
 - 📫 How to reach me **meetsavaliya0503@gmail.com**
 
